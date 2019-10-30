@@ -10,7 +10,7 @@ namespace EserciziMistero
             int n = double.Parse(Console.ReadLine());
         }        
             //somma
-        public static int Mistero1(int x, int y)
+        public static int Mistero1(int x, int y )
         {
             int prec;
             if (y == 0)
